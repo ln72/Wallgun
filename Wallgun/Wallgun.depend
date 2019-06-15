@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1510935246 source:c:\users\최강은\desktop\자료\정보\c project - wallgun\wallgun\main.c
+	<Turboc.h>
+
+1528730909 source:c:\users\최강은\desktop\자료\정보(진로,동아리)\c project - wallgun\wallgun\main.c
+	"header.h"
+	"constant.h"
+
+1532345374 c:\users\최강은\desktop\자료\정보(진로,동아리)\c project - wallgun\wallgun\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1528382244 source:c:\users\최강은\desktop\자료\정보(진로,동아리)\c project - wallgun\wallgun\entity.c
+	"header.h"
+	"constant.h"
+
+1528729249 source:c:\users\최강은\desktop\자료\정보(진로,동아리)\c project - wallgun\wallgun\graphic.c
+	"header.h"
+	"constant.h"
+
+1528215495 c:\users\최강은\desktop\자료\정보(진로,동아리)\c project - wallgun\wallgun\constant.h
+
+1528471237 source:c:\users\최강은\desktop\자료\정보(진로,동아리)\c project - wallgun\wallgun\constant.c
+	"header.h"
+
